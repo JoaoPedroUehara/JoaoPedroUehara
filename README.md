@@ -5,7 +5,7 @@
 <h2 align="center">Student at the University of Brasília fascinated by Data Analysis 📊</h2>   
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroUehara&show_icons=true&include_all_commits=true&theme=blue-green"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroUehara&show_icons=true&include_all_commits=true&theme=blue-green"/>
   <img align="right" height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroUehara&layout=compact&langs_count=16&theme=blue-green"/>
 </div>    
 
